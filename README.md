@@ -42,13 +42,15 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media.tenor.com/j6Ann7ty2FEAAAAM/blue-pen-caneta-azul.gif"  />
-
-###
-
 <br clear="both">
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95" alt="Snake animation" />
+<img align="right" height="220" src="https://media.tenor.com/j6Ann7ty2FEAAAAM/blue-pen-caneta-azul.gif"  />
 
 ###
+
+<div align="center">
+  <img height="200" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95"  />
+</div>
+
+###
+
