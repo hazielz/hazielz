@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hazielz/hazielz/output/snake.svg" alt="Snake animation" />
+<img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95" alt="Snake animation" />
 
 ###
